@@ -10,3 +10,5 @@ To Do:
 2. start uploading my work and stay up-to-date
 3. finish learning python(udemy course)
 4. check out w3schools for more content on Python and ML
+
+i will undo this
